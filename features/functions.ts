@@ -61,3 +61,8 @@ const {
     }
 } = fullInfo
 
+const fruits: string[] = ['apple', 'banana'];
+
+const numbers: number[] = [1, 2, 3, 4, 5]
+const date = [new Date()]
+const mixed = [1, 'Zulfizar']
